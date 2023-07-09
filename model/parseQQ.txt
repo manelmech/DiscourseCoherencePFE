@@ -1,0 +1,3014 @@
+EPOCH 0
+Time 0.87  min
+Fold0 - Train loss: 147.75223910808563
+Accuracy :
+0.4270833333333333
+Confusion matrix :
+[[ 40  14 101]
+ [ 27  12  58]
+ [ 41  34 153]]
+Accuracy low :
+0.61875
+Accuracy medium :
+0.7229166666666667
+Accuracy high :
+0.5125
+Average accuracy :
+0.6180555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.37      0.26      0.30       155
+           1       0.20      0.12      0.15        97
+           2       0.49      0.67      0.57       228
+
+    accuracy                           0.43       480
+   macro avg       0.35      0.35      0.34       480
+weighted avg       0.39      0.43      0.40       480
+
+Fold0 - Test loss: 16.451
+Fold0 - Test accuracy: 42.71%
+saved model runs\parseq_model_cv/parseq_model_cv_best
+
+Time 2.18  min
+Fold1 - Train loss: 295.737873673439
+Accuracy :
+0.2916666666666667
+Confusion matrix :
+[[ 34 103  18]
+ [ 20  67  10]
+ [ 29 160  39]]
+Accuracy low :
+0.6458333333333334
+Accuracy medium :
+0.38958333333333334
+Accuracy high :
+0.5479166666666667
+Average accuracy :
+0.5277777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.22      0.29       155
+           1       0.20      0.69      0.31        97
+           2       0.58      0.17      0.26       228
+
+    accuracy                           0.29       480
+   macro avg       0.40      0.36      0.29       480
+weighted avg       0.45      0.29      0.28       480
+
+Fold1 - Test loss: 16.412
+Fold1 - Test accuracy: 29.17%
+
+Time 3.21  min
+Fold2 - Train loss: 443.4096796512604
+Accuracy :
+0.325
+Confusion matrix :
+[[ 36  76  43]
+ [ 11  45  41]
+ [ 37 116  75]]
+Accuracy low :
+0.6520833333333333
+Accuracy medium :
+0.49166666666666664
+Accuracy high :
+0.50625
+Average accuracy :
+0.5499999999999999
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.23      0.30       155
+           1       0.19      0.46      0.27        97
+           2       0.47      0.33      0.39       228
+
+    accuracy                           0.33       480
+   macro avg       0.36      0.34      0.32       480
+weighted avg       0.40      0.33      0.34       480
+
+Fold2 - Test loss: 16.489
+Fold2 - Test accuracy: 32.50%
+
+Time 4.18  min
+Fold3 - Train loss: 591.1930853128433
+Accuracy :
+0.4270833333333333
+Confusion matrix :
+[[ 54  63  38]
+ [ 16  53  27]
+ [ 22 109  98]]
+Accuracy low :
+0.7104166666666667
+Accuracy medium :
+0.5520833333333334
+Accuracy high :
+0.5916666666666667
+Average accuracy :
+0.6180555555555557
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.59      0.35      0.44       155
+           1       0.24      0.55      0.33        96
+           2       0.60      0.43      0.50       229
+
+    accuracy                           0.43       480
+   macro avg       0.47      0.44      0.42       480
+weighted avg       0.52      0.43      0.45       480
+
+Fold3 - Test loss: 16.426
+Fold3 - Test accuracy: 42.71%
+
+Time 5.16  min
+Fold4 - Train loss: 738.9976004362106
+Accuracy :
+0.45
+Confusion matrix :
+[[125  28   2]
+ [ 54  33   9]
+ [ 79  92  58]]
+Accuracy low :
+0.6604166666666667
+Accuracy medium :
+0.61875
+Accuracy high :
+0.6208333333333333
+Average accuracy :
+0.6333333333333334
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.48      0.81      0.61       155
+           1       0.22      0.34      0.27        96
+           2       0.84      0.25      0.39       229
+
+    accuracy                           0.45       480
+   macro avg       0.51      0.47      0.42       480
+weighted avg       0.60      0.45      0.43       480
+
+Fold4 - Test loss: 16.457
+Fold4 - Test accuracy: 45.00%
+saved model runs\parseq_model_cv/parseq_model_cv_best
+
+Time 6.40  min
+Fold5 - Train loss: 886.4829035997391
+Accuracy :
+0.31666666666666665
+Confusion matrix :
+[[120  33   2]
+ [ 62  31   3]
+ [163  65   1]]
+Accuracy low :
+0.4583333333333333
+Accuracy medium :
+0.6604166666666667
+Accuracy high :
+0.5145833333333333
+Average accuracy :
+0.5444444444444444
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.77      0.48       155
+           1       0.24      0.32      0.28        96
+           2       0.17      0.00      0.01       229
+
+    accuracy                           0.32       480
+   macro avg       0.25      0.37      0.25       480
+weighted avg       0.24      0.32      0.21       480
+
+Fold5 - Test loss: 16.489
+Fold5 - Test accuracy: 31.67%
+
+Time 7.35  min
+Fold6 - Train loss: 1034.091705918312
+Accuracy :
+0.38333333333333336
+Confusion matrix :
+[[108  40   8]
+ [ 44  34  18]
+ [ 80 106  42]]
+Accuracy low :
+0.6416666666666667
+Accuracy medium :
+0.5666666666666667
+Accuracy high :
+0.5583333333333333
+Average accuracy :
+0.5888888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.69      0.56       156
+           1       0.19      0.35      0.25        96
+           2       0.62      0.18      0.28       228
+
+    accuracy                           0.38       480
+   macro avg       0.42      0.41      0.36       480
+weighted avg       0.48      0.38      0.37       480
+
+Fold6 - Test loss: 16.425
+Fold6 - Test accuracy: 38.33%
+
+Time 8.32  min
+Fold7 - Train loss: 1181.6310793161392
+Accuracy :
+0.32916666666666666
+Confusion matrix :
+[[82 53 21]
+ [49 27 20]
+ [91 88 49]]
+Accuracy low :
+0.5541666666666667
+Accuracy medium :
+0.5625
+Accuracy high :
+0.5416666666666666
+Average accuracy :
+0.5527777777777777
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.37      0.53      0.43       156
+           1       0.16      0.28      0.20        96
+           2       0.54      0.21      0.31       228
+
+    accuracy                           0.33       480
+   macro avg       0.36      0.34      0.32       480
+weighted avg       0.41      0.33      0.33       480
+
+Fold7 - Test loss: 16.430
+Fold7 - Test accuracy: 32.92%
+
+Time 9.34  min
+Fold8 - Train loss: 1329.1669838428497
+Accuracy :
+0.38125
+Confusion matrix :
+[[ 68  55  33]
+ [ 21  51  24]
+ [ 51 113  64]]
+Accuracy low :
+0.6666666666666666
+Accuracy medium :
+0.55625
+Accuracy high :
+0.5395833333333333
+Average accuracy :
+0.5875
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.49      0.44      0.46       156
+           1       0.23      0.53      0.32        96
+           2       0.53      0.28      0.37       228
+
+    accuracy                           0.38       480
+   macro avg       0.42      0.42      0.38       480
+weighted avg       0.46      0.38      0.39       480
+
+Fold8 - Test loss: 16.423
+Fold8 - Test accuracy: 38.12%
+
+Time 10.31 min
+Fold9 - Train loss: 1476.6501199007034
+Accuracy :
+0.35833333333333334
+Confusion matrix :
+[[ 95  45  16]
+ [ 52  35   9]
+ [ 79 107  42]]
+Accuracy low :
+0.6
+Accuracy medium :
+0.55625
+Accuracy high :
+0.5604166666666667
+Average accuracy :
+0.5722222222222223
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.61      0.50       156
+           1       0.19      0.36      0.25        96
+           2       0.63      0.18      0.28       228
+
+    accuracy                           0.36       480
+   macro avg       0.41      0.39      0.34       480
+weighted avg       0.47      0.36      0.35       480
+
+Fold9 - Test loss: 16.429
+Fold9 - Test accuracy: 35.83%
+
+EPOCH 1
+Time 11.25 min
+Fold0 - Train loss: 147.66743803024292
+Accuracy :
+0.28125
+Confusion matrix :
+[[ 27  91  37]
+ [ 14  52  31]
+ [ 21 151  56]]
+Accuracy low :
+0.6604166666666667
+Accuracy medium :
+0.40208333333333335
+Accuracy high :
+0.5
+Average accuracy :
+0.5208333333333334
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.44      0.17      0.25       155
+           1       0.18      0.54      0.27        97
+           2       0.45      0.25      0.32       228
+
+    accuracy                           0.28       480
+   macro avg       0.35      0.32      0.28       480
+weighted avg       0.39      0.28      0.29       480
+
+Fold0 - Test loss: 16.426
+Fold0 - Test accuracy: 28.12%
+
+Time 12.20 min
+Fold1 - Train loss: 295.21838438510895
+Accuracy :
+0.34791666666666665
+Confusion matrix :
+[[ 34  90  31]
+ [ 16  51  30]
+ [ 23 123  82]]
+Accuracy low :
+0.6666666666666666
+Accuracy medium :
+0.46041666666666664
+Accuracy high :
+0.56875
+Average accuracy :
+0.5652777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.22      0.30       155
+           1       0.19      0.53      0.28        97
+           2       0.57      0.36      0.44       228
+
+    accuracy                           0.35       480
+   macro avg       0.41      0.37      0.34       480
+weighted avg       0.46      0.35      0.36       480
+
+Fold1 - Test loss: 16.391
+Fold1 - Test accuracy: 34.79%
+
+Time 13.21 min
+Fold2 - Train loss: 442.66914200782776
+Accuracy :
+0.3375
+Confusion matrix :
+[[ 35  84  36]
+ [ 10  55  32]
+ [ 27 129  72]]
+Accuracy low :
+0.6729166666666667
+Accuracy medium :
+0.46875
+Accuracy high :
+0.5333333333333333
+Average accuracy :
+0.5583333333333332
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.49      0.23      0.31       155
+           1       0.21      0.57      0.30        97
+           2       0.51      0.32      0.39       228
+
+    accuracy                           0.34       480
+   macro avg       0.40      0.37      0.33       480
+weighted avg       0.44      0.34      0.35       480
+
+Fold2 - Test loss: 16.480
+Fold2 - Test accuracy: 33.75%
+
+Time 14.16 min
+Fold3 - Train loss: 590.2780599594116
+Accuracy :
+0.45
+Confusion matrix :
+[[ 52  54  49]
+ [ 13  41  42]
+ [ 18  88 123]]
+Accuracy low :
+0.7208333333333333
+Accuracy medium :
+0.5895833333333333
+Accuracy high :
+0.5895833333333333
+Average accuracy :
+0.6333333333333334
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.63      0.34      0.44       155
+           1       0.22      0.43      0.29        96
+           2       0.57      0.54      0.56       229
+
+    accuracy                           0.45       480
+   macro avg       0.48      0.43      0.43       480
+weighted avg       0.52      0.45      0.46       480
+
+Fold3 - Test loss: 16.428
+Fold3 - Test accuracy: 45.00%
+
+Time 15.14 min
+Fold4 - Train loss: 737.9351780414581
+Accuracy :
+0.4083333333333333
+Confusion matrix :
+[[125  27   3]
+ [ 57  33   6]
+ [ 85 106  38]]
+Accuracy low :
+0.6416666666666667
+Accuracy medium :
+0.5916666666666667
+Accuracy high :
+0.5833333333333334
+Average accuracy :
+0.6055555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.81      0.59       155
+           1       0.20      0.34      0.25        96
+           2       0.81      0.17      0.28       229
+
+    accuracy                           0.41       480
+   macro avg       0.49      0.44      0.37       480
+weighted avg       0.58      0.41      0.37       480
+
+Fold4 - Test loss: 16.448
+Fold4 - Test accuracy: 40.83%
+
+Time 16.10 min
+Fold5 - Train loss: 885.2856298685074
+Accuracy :
+0.30416666666666664
+Confusion matrix :
+[[120  32   3]
+ [ 68  25   3]
+ [167  61   1]]
+Accuracy low :
+0.4375
+Accuracy medium :
+0.6583333333333333
+Accuracy high :
+0.5125
+Average accuracy :
+0.5361111111111111
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.21      0.26      0.23        96
+           2       0.14      0.00      0.01       229
+
+    accuracy                           0.30       480
+   macro avg       0.23      0.35      0.24       480
+weighted avg       0.22      0.30      0.20       480
+
+Fold5 - Test loss: 16.471
+Fold5 - Test accuracy: 30.42%
+
+Time 17.05 min
+Fold6 - Train loss: 1032.791931271553
+Accuracy :
+0.36875
+Confusion matrix :
+[[118  36   2]
+ [ 56  36   4]
+ [118  87  23]]
+Accuracy low :
+0.5583333333333333
+Accuracy medium :
+0.61875
+Accuracy high :
+0.5604166666666667
+Average accuracy :
+0.5791666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.76      0.53       156
+           1       0.23      0.38      0.28        96
+           2       0.79      0.10      0.18       228
+
+    accuracy                           0.37       480
+   macro avg       0.47      0.41      0.33       480
+weighted avg       0.55      0.37      0.31       480
+
+Fold6 - Test loss: 16.439
+Fold6 - Test accuracy: 36.88%
+
+Time 18.04 min
+Fold7 - Train loss: 1180.272347688675
+Accuracy :
+0.3145833333333333
+Confusion matrix :
+[[ 99  49   8]
+ [ 60  29   7]
+ [122  83  23]]
+Accuracy low :
+0.5020833333333333
+Accuracy medium :
+0.5854166666666667
+Accuracy high :
+0.5416666666666666
+Average accuracy :
+0.5430555555555555
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.63      0.45       156
+           1       0.18      0.30      0.23        96
+           2       0.61      0.10      0.17       228
+
+    accuracy                           0.31       480
+   macro avg       0.38      0.35      0.28       480
+weighted avg       0.44      0.31      0.27       480
+
+Fold7 - Test loss: 16.431
+Fold7 - Test accuracy: 31.46%
+
+Time 18.98 min
+Fold8 - Train loss: 1327.7274643182755
+Accuracy :
+0.32916666666666666
+Confusion matrix :
+[[ 72  68  16]
+ [ 32  53  11]
+ [ 63 132  33]]
+Accuracy low :
+0.6270833333333333
+Accuracy medium :
+0.49375
+Accuracy high :
+0.5375
+Average accuracy :
+0.5527777777777777
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.46      0.45       156
+           1       0.21      0.55      0.30        96
+           2       0.55      0.14      0.23       228
+
+    accuracy                           0.33       480
+   macro avg       0.40      0.39      0.33       480
+weighted avg       0.44      0.33      0.31       480
+
+Fold8 - Test loss: 16.394
+Fold8 - Test accuracy: 32.92%
+
+Time 19.95 min
+Fold9 - Train loss: 1475.0450075864792
+Accuracy :
+0.33541666666666664
+Confusion matrix :
+[[106  42   8]
+ [ 63  29   4]
+ [107  95  26]]
+Accuracy low :
+0.5416666666666666
+Accuracy medium :
+0.575
+Accuracy high :
+0.5541666666666667
+Average accuracy :
+0.5569444444444445
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.38      0.68      0.49       156
+           1       0.17      0.30      0.22        96
+           2       0.68      0.11      0.20       228
+
+    accuracy                           0.34       480
+   macro avg       0.41      0.37      0.30       480
+weighted avg       0.48      0.34      0.30       480
+
+Fold9 - Test loss: 16.454
+Fold9 - Test accuracy: 33.54%
+
+EPOCH 2
+Time 20.88 min
+Fold0 - Train loss: 147.46413493156433
+Accuracy :
+0.24375
+Confusion matrix :
+[[ 29 114  12]
+ [ 16  76   5]
+ [ 22 194  12]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.3145833333333333
+Accuracy high :
+0.5145833333333333
+Average accuracy :
+0.4958333333333333
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.19      0.26       155
+           1       0.20      0.78      0.32        97
+           2       0.41      0.05      0.09       228
+
+    accuracy                           0.24       480
+   macro avg       0.35      0.34      0.22       480
+weighted avg       0.38      0.24      0.19       480
+
+Fold0 - Test loss: 16.454
+Fold0 - Test accuracy: 24.38%
+
+Time 21.84 min
+Fold1 - Train loss: 294.949276804924
+Accuracy :
+0.27708333333333335
+Confusion matrix :
+[[ 42  98  15]
+ [ 23  64  10]
+ [ 28 173  27]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.36666666666666664
+Accuracy high :
+0.5291666666666667
+Average accuracy :
+0.5180555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.45      0.27      0.34       155
+           1       0.19      0.66      0.30        97
+           2       0.52      0.12      0.19       228
+
+    accuracy                           0.28       480
+   macro avg       0.39      0.35      0.28       480
+weighted avg       0.43      0.28      0.26       480
+
+Fold1 - Test loss: 16.400
+Fold1 - Test accuracy: 27.71%
+
+Time 22.81 min
+Fold2 - Train loss: 442.36153841018677
+Accuracy :
+0.30625
+Confusion matrix :
+[[ 44  95  16]
+ [ 16  67  14]
+ [ 44 148  36]]
+Accuracy low :
+0.64375
+Accuracy medium :
+0.43125
+Accuracy high :
+0.5375
+Average accuracy :
+0.5375000000000001
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.28      0.34       155
+           1       0.22      0.69      0.33        97
+           2       0.55      0.16      0.24       228
+
+    accuracy                           0.31       480
+   macro avg       0.39      0.38      0.30       480
+weighted avg       0.44      0.31      0.29       480
+
+Fold2 - Test loss: 16.434
+Fold2 - Test accuracy: 30.63%
+
+Time 23.77 min
+Fold3 - Train loss: 589.7372200489044
+Accuracy :
+0.34375
+Confusion matrix :
+[[ 65  79  11]
+ [ 21  70   5]
+ [ 34 165  30]]
+Accuracy low :
+0.6979166666666666
+Accuracy medium :
+0.4375
+Accuracy high :
+0.5520833333333334
+Average accuracy :
+0.5625
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.54      0.42      0.47       155
+           1       0.22      0.73      0.34        96
+           2       0.65      0.13      0.22       229
+
+    accuracy                           0.34       480
+   macro avg       0.47      0.43      0.34       480
+weighted avg       0.53      0.34      0.33       480
+
+Fold3 - Test loss: 16.437
+Fold3 - Test accuracy: 34.38%
+
+Time 24.75 min
+Fold4 - Train loss: 737.3828024864197
+Accuracy :
+0.38958333333333334
+Confusion matrix :
+[[125  30   0]
+ [ 57  39   0]
+ [ 84 122  23]]
+Accuracy low :
+0.64375
+Accuracy medium :
+0.5645833333333333
+Accuracy high :
+0.5708333333333333
+Average accuracy :
+0.5930555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.81      0.59       155
+           1       0.20      0.41      0.27        96
+           2       1.00      0.10      0.18       229
+
+    accuracy                           0.39       480
+   macro avg       0.56      0.44      0.35       480
+weighted avg       0.67      0.39      0.33       480
+
+Fold4 - Test loss: 16.453
+Fold4 - Test accuracy: 38.96%
+
+Time 25.71 min
+Fold5 - Train loss: 884.6016237735748
+Accuracy :
+0.3104166666666667
+Confusion matrix :
+[[120  35   0]
+ [ 66  29   1]
+ [166  63   0]]
+Accuracy low :
+0.44375
+Accuracy medium :
+0.65625
+Accuracy high :
+0.5208333333333334
+Average accuracy :
+0.5402777777777779
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.23      0.30      0.26        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.31       480
+   macro avg       0.19      0.36      0.24       480
+weighted avg       0.16      0.31      0.20       480
+
+Fold5 - Test loss: 16.475
+Fold5 - Test accuracy: 31.04%
+
+Time 26.66 min
+Fold6 - Train loss: 1032.0669827461243
+Accuracy :
+0.3625
+Confusion matrix :
+[[110  42   4]
+ [ 50  38   8]
+ [ 99 103  26]]
+Accuracy low :
+0.59375
+Accuracy medium :
+0.5770833333333333
+Accuracy high :
+0.5541666666666667
+Average accuracy :
+0.5750000000000001
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.71      0.53       156
+           1       0.21      0.40      0.27        96
+           2       0.68      0.11      0.20       228
+
+    accuracy                           0.36       480
+   macro avg       0.44      0.40      0.33       480
+weighted avg       0.50      0.36      0.32       480
+
+Fold6 - Test loss: 16.434
+Fold6 - Test accuracy: 36.25%
+
+Time 27.61 min
+Fold7 - Train loss: 1179.2875587940216
+Accuracy :
+0.30833333333333335
+Confusion matrix :
+[[ 87  60   9]
+ [ 53  33  10]
+ [106  94  28]]
+Accuracy low :
+0.525
+Accuracy medium :
+0.5479166666666667
+Accuracy high :
+0.54375
+Average accuracy :
+0.5388888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.56      0.43       156
+           1       0.18      0.34      0.23        96
+           2       0.60      0.12      0.20       228
+
+    accuracy                           0.31       480
+   macro avg       0.38      0.34      0.29       480
+weighted avg       0.43      0.31      0.28       480
+
+Fold7 - Test loss: 16.427
+Fold7 - Test accuracy: 30.83%
+
+Time 28.59 min
+Fold8 - Train loss: 1326.5492926836014
+Accuracy :
+0.3416666666666667
+Confusion matrix :
+[[ 71  71  14]
+ [ 27  57  12]
+ [ 56 136  36]]
+Accuracy low :
+0.65
+Accuracy medium :
+0.4875
+Accuracy high :
+0.5458333333333333
+Average accuracy :
+0.561111111111111
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.46      0.46       156
+           1       0.22      0.59      0.32        96
+           2       0.58      0.16      0.25       228
+
+    accuracy                           0.34       480
+   macro avg       0.42      0.40      0.34       480
+weighted avg       0.47      0.34      0.33       480
+
+Fold8 - Test loss: 16.395
+Fold8 - Test accuracy: 34.17%
+
+Time 29.56 min
+Fold9 - Train loss: 1473.9166857004166
+Accuracy :
+0.3333333333333333
+Confusion matrix :
+[[105  47   4]
+ [ 59  33   4]
+ [ 99 107  22]]
+Accuracy low :
+0.5645833333333333
+Accuracy medium :
+0.5479166666666667
+Accuracy high :
+0.5541666666666667
+Average accuracy :
+0.5555555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.67      0.50       156
+           1       0.18      0.34      0.23        96
+           2       0.73      0.10      0.17       228
+
+    accuracy                           0.33       480
+   macro avg       0.44      0.37      0.30       480
+weighted avg       0.51      0.33      0.29       480
+
+Fold9 - Test loss: 16.461
+Fold9 - Test accuracy: 33.33%
+
+EPOCH 3
+Time 30.50 min
+Fold0 - Train loss: 147.32432413101196
+Accuracy :
+0.2375
+Confusion matrix :
+[[ 33 103  19]
+ [ 21  68   8]
+ [ 26 189  13]]
+Accuracy low :
+0.6479166666666667
+Accuracy medium :
+0.33125
+Accuracy high :
+0.49583333333333335
+Average accuracy :
+0.4916666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.21      0.28       155
+           1       0.19      0.70      0.30        97
+           2       0.33      0.06      0.10       228
+
+    accuracy                           0.24       480
+   macro avg       0.31      0.32      0.23       480
+weighted avg       0.33      0.24      0.20       480
+
+Fold0 - Test loss: 16.475
+Fold0 - Test accuracy: 23.75%
+
+Time 31.46 min
+Fold1 - Train loss: 294.6906427145004
+Accuracy :
+0.26666666666666666
+Confusion matrix :
+[[ 44 105   6]
+ [ 23  68   6]
+ [ 29 183  16]]
+Accuracy low :
+0.6604166666666667
+Accuracy medium :
+0.33958333333333335
+Accuracy high :
+0.5333333333333333
+Average accuracy :
+0.5111111111111111
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.28      0.35       155
+           1       0.19      0.70      0.30        97
+           2       0.57      0.07      0.12       228
+
+    accuracy                           0.27       480
+   macro avg       0.41      0.35      0.26       480
+weighted avg       0.46      0.27      0.23       480
+
+Fold1 - Test loss: 16.378
+Fold1 - Test accuracy: 26.67%
+
+Time 32.43 min
+Fold2 - Train loss: 441.9481031894684
+Accuracy :
+0.29583333333333334
+Confusion matrix :
+[[ 49  97   9]
+ [ 22  67   8]
+ [ 51 151  26]]
+Accuracy low :
+0.6270833333333333
+Accuracy medium :
+0.42083333333333334
+Accuracy high :
+0.54375
+Average accuracy :
+0.5305555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.32      0.35       155
+           1       0.21      0.69      0.33        97
+           2       0.60      0.11      0.19       228
+
+    accuracy                           0.30       480
+   macro avg       0.41      0.37      0.29       480
+weighted avg       0.46      0.30      0.27       480
+
+Fold2 - Test loss: 16.415
+Fold2 - Test accuracy: 29.58%
+
+Time 33.39 min
+Fold3 - Train loss: 589.3612196445465
+Accuracy :
+0.33125
+Confusion matrix :
+[[ 66  80   9]
+ [ 23  69   4]
+ [ 36 169  24]]
+Accuracy low :
+0.6916666666666667
+Accuracy medium :
+0.425
+Accuracy high :
+0.5458333333333333
+Average accuracy :
+0.5541666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.53      0.43      0.47       155
+           1       0.22      0.72      0.33        96
+           2       0.65      0.10      0.18       229
+
+    accuracy                           0.33       480
+   macro avg       0.46      0.42      0.33       480
+weighted avg       0.52      0.33      0.30       480
+
+Fold3 - Test loss: 16.433
+Fold3 - Test accuracy: 33.12%
+
+Time 34.39 min
+Fold4 - Train loss: 736.7198044061661
+Accuracy :
+0.37083333333333335
+Confusion matrix :
+[[125  30   0]
+ [ 57  39   0]
+ [ 84 131  14]]
+Accuracy low :
+0.64375
+Accuracy medium :
+0.5458333333333333
+Accuracy high :
+0.5520833333333334
+Average accuracy :
+0.5805555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.81      0.59       155
+           1       0.20      0.41      0.26        96
+           2       1.00      0.06      0.12       229
+
+    accuracy                           0.37       480
+   macro avg       0.55      0.42      0.32       480
+weighted avg       0.67      0.37      0.30       480
+
+Fold4 - Test loss: 16.464
+Fold4 - Test accuracy: 37.08%
+
+Time 35.38 min
+Fold5 - Train loss: 884.0222980976105
+Accuracy :
+0.3104166666666667
+Confusion matrix :
+[[120  35   0]
+ [ 66  29   1]
+ [166  63   0]]
+Accuracy low :
+0.44375
+Accuracy medium :
+0.65625
+Accuracy high :
+0.5208333333333334
+Average accuracy :
+0.5402777777777779
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.23      0.30      0.26        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.31       480
+   macro avg       0.19      0.36      0.24       480
+weighted avg       0.16      0.31      0.20       480
+
+Fold5 - Test loss: 16.476
+Fold5 - Test accuracy: 31.04%
+
+Time 36.34 min
+Fold6 - Train loss: 1031.3873809576035
+Accuracy :
+0.36875
+Confusion matrix :
+[[114  38   4]
+ [ 52  35   9]
+ [107  93  28]]
+Accuracy low :
+0.58125
+Accuracy medium :
+0.6
+Accuracy high :
+0.55625
+Average accuracy :
+0.5791666666666666
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.73      0.53       156
+           1       0.21      0.36      0.27        96
+           2       0.68      0.12      0.21       228
+
+    accuracy                           0.37       480
+   macro avg       0.44      0.41      0.34       480
+weighted avg       0.50      0.37      0.33       480
+
+Fold6 - Test loss: 16.433
+Fold6 - Test accuracy: 36.88%
+
+Time 37.53 min
+Fold7 - Train loss: 1178.7273814678192
+Accuracy :
+0.32083333333333336
+Confusion matrix :
+[[ 94  52  10]
+ [ 57  30   9]
+ [117  81  30]]
+Accuracy low :
+0.5083333333333333
+Accuracy medium :
+0.5854166666666667
+Accuracy high :
+0.5479166666666667
+Average accuracy :
+0.5472222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.60      0.44       156
+           1       0.18      0.31      0.23        96
+           2       0.61      0.13      0.22       228
+
+    accuracy                           0.32       480
+   macro avg       0.38      0.35      0.30       480
+weighted avg       0.44      0.32      0.29       480
+
+Fold7 - Test loss: 16.429
+Fold7 - Test accuracy: 32.08%
+
+Time 38.28 min
+Fold8 - Train loss: 1326.0258520841599
+Accuracy :
+0.39166666666666666
+Confusion matrix :
+[[ 71  61  24]
+ [ 27  47  22]
+ [ 55 103  70]]
+Accuracy low :
+0.6520833333333333
+Accuracy medium :
+0.55625
+Accuracy high :
+0.575
+Average accuracy :
+0.5944444444444444
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.46      0.46       156
+           1       0.22      0.49      0.31        96
+           2       0.60      0.31      0.41       228
+
+    accuracy                           0.39       480
+   macro avg       0.43      0.42      0.39       480
+weighted avg       0.48      0.39      0.40       480
+
+Fold8 - Test loss: 16.375
+Fold8 - Test accuracy: 39.17%
+
+Time 39.03 min
+Fold9 - Train loss: 1473.4380435943604
+Accuracy :
+0.35625
+Confusion matrix :
+[[104  47   5]
+ [ 59  31   6]
+ [ 99  93  36]]
+Accuracy low :
+0.5625
+Accuracy medium :
+0.5729166666666666
+Accuracy high :
+0.5770833333333333
+Average accuracy :
+0.5708333333333333
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.67      0.50       156
+           1       0.18      0.32      0.23        96
+           2       0.77      0.16      0.26       228
+
+    accuracy                           0.36       480
+   macro avg       0.45      0.38      0.33       480
+weighted avg       0.53      0.36      0.33       480
+
+Fold9 - Test loss: 16.412
+Fold9 - Test accuracy: 35.62%
+
+EPOCH 4
+Time 39.74 min
+Fold0 - Train loss: 147.24913680553436
+Accuracy :
+0.2625
+Confusion matrix :
+[[ 33  79  43]
+ [ 22  48  27]
+ [ 29 154  45]]
+Accuracy low :
+0.6395833333333333
+Accuracy medium :
+0.4125
+Accuracy high :
+0.47291666666666665
+Average accuracy :
+0.5083333333333333
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.39      0.21      0.28       155
+           1       0.17      0.49      0.25        97
+           2       0.39      0.20      0.26       228
+
+    accuracy                           0.26       480
+   macro avg       0.32      0.30      0.26       480
+weighted avg       0.35      0.26      0.27       480
+
+Fold0 - Test loss: 16.467
+Fold0 - Test accuracy: 26.25%
+
+Time 40.52 min
+Fold1 - Train loss: 294.64106702804565
+Accuracy :
+0.3020833333333333
+Confusion matrix :
+[[ 43  85  27]
+ [ 23  55  19]
+ [ 29 152  47]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.41875
+Accuracy high :
+0.5270833333333333
+Average accuracy :
+0.5347222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.45      0.28      0.34       155
+           1       0.19      0.57      0.28        97
+           2       0.51      0.21      0.29       228
+
+    accuracy                           0.30       480
+   macro avg       0.38      0.35      0.31       480
+weighted avg       0.42      0.30      0.31       480
+
+Fold1 - Test loss: 16.378
+Fold1 - Test accuracy: 30.21%
+
+Time 41.38 min
+Fold2 - Train loss: 441.94526052474976
+Accuracy :
+0.3125
+Confusion matrix :
+[[ 47  97  11]
+ [ 18  68  11]
+ [ 49 144  35]]
+Accuracy low :
+0.6354166666666666
+Accuracy medium :
+0.4375
+Accuracy high :
+0.5520833333333334
+Average accuracy :
+0.5416666666666666
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.30      0.35       155
+           1       0.22      0.70      0.33        97
+           2       0.61      0.15      0.25       228
+
+    accuracy                           0.31       480
+   macro avg       0.42      0.39      0.31       480
+weighted avg       0.47      0.31      0.30       480
+
+Fold2 - Test loss: 16.411
+Fold2 - Test accuracy: 31.25%
+
+Time 42.22 min
+Fold3 - Train loss: 589.4000164270401
+Accuracy :
+0.35208333333333336
+Confusion matrix :
+[[ 65  81   9]
+ [ 22  60  14]
+ [ 35 150  44]]
+Accuracy low :
+0.69375
+Accuracy medium :
+0.44375
+Accuracy high :
+0.5666666666666667
+Average accuracy :
+0.5680555555555555
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.53      0.42      0.47       155
+           1       0.21      0.62      0.31        96
+           2       0.66      0.19      0.30       229
+
+    accuracy                           0.35       480
+   macro avg       0.47      0.41      0.36       480
+weighted avg       0.53      0.35      0.36       480
+
+Fold3 - Test loss: 16.430
+Fold3 - Test accuracy: 35.21%
+
+Time 43.09 min
+Fold4 - Train loss: 736.7897025346756
+Accuracy :
+0.3958333333333333
+Confusion matrix :
+[[125  30   0]
+ [ 57  37   2]
+ [ 84 117  28]]
+Accuracy low :
+0.64375
+Accuracy medium :
+0.5708333333333333
+Accuracy high :
+0.5770833333333333
+Average accuracy :
+0.5972222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.81      0.59       155
+           1       0.20      0.39      0.26        96
+           2       0.93      0.12      0.22       229
+
+    accuracy                           0.40       480
+   macro avg       0.53      0.44      0.36       480
+weighted avg       0.64      0.40      0.35       480
+
+Fold4 - Test loss: 16.464
+Fold4 - Test accuracy: 39.58%
+
+Time 43.98 min
+Fold5 - Train loss: 883.9289160966873
+Accuracy :
+0.3104166666666667
+Confusion matrix :
+[[120  35   0]
+ [ 66  29   1]
+ [167  62   0]]
+Accuracy low :
+0.44166666666666665
+Accuracy medium :
+0.6583333333333333
+Accuracy high :
+0.5208333333333334
+Average accuracy :
+0.5402777777777779
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.23      0.30      0.26        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.31       480
+   macro avg       0.19      0.36      0.24       480
+weighted avg       0.16      0.31      0.20       480
+
+Fold5 - Test loss: 16.474
+Fold5 - Test accuracy: 31.04%
+
+Time 44.78 min
+Fold6 - Train loss: 1031.3935776948929
+Accuracy :
+0.375
+Confusion matrix :
+[[115  35   6]
+ [ 52  33  11]
+ [110  86  32]]
+Accuracy low :
+0.5770833333333333
+Accuracy medium :
+0.6166666666666667
+Accuracy high :
+0.55625
+Average accuracy :
+0.5833333333333334
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.74      0.53       156
+           1       0.21      0.34      0.26        96
+           2       0.65      0.14      0.23       228
+
+    accuracy                           0.38       480
+   macro avg       0.43      0.41      0.34       480
+weighted avg       0.49      0.38      0.34       480
+
+Fold6 - Test loss: 16.433
+Fold6 - Test accuracy: 37.50%
+
+Time 45.61 min
+Fold7 - Train loss: 1178.710084080696
+Accuracy :
+0.32708333333333334
+Confusion matrix :
+[[ 94  49  13]
+ [ 57  30   9]
+ [117  78  33]]
+Accuracy low :
+0.5083333333333333
+Accuracy medium :
+0.5979166666666667
+Accuracy high :
+0.5479166666666667
+Average accuracy :
+0.5513888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.60      0.44       156
+           1       0.19      0.31      0.24        96
+           2       0.60      0.14      0.23       228
+
+    accuracy                           0.33       480
+   macro avg       0.38      0.35      0.30       480
+weighted avg       0.44      0.33      0.30       480
+
+Fold7 - Test loss: 16.433
+Fold7 - Test accuracy: 32.71%
+
+Time 46.44 min
+Fold8 - Train loss: 1326.0142904520035
+Accuracy :
+0.41041666666666665
+Confusion matrix :
+[[71 56 29]
+ [27 50 19]
+ [56 96 76]]
+Accuracy low :
+0.65
+Accuracy medium :
+0.5875
+Accuracy high :
+0.5833333333333334
+Average accuracy :
+0.6069444444444444
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.46      0.46       156
+           1       0.25      0.52      0.34        96
+           2       0.61      0.33      0.43       228
+
+    accuracy                           0.41       480
+   macro avg       0.44      0.44      0.41       480
+weighted avg       0.49      0.41      0.42       480
+
+Fold8 - Test loss: 16.382
+Fold8 - Test accuracy: 41.04%
+
+Time 47.28 min
+Fold9 - Train loss: 1473.4456692934036
+Accuracy :
+0.32708333333333334
+Confusion matrix :
+[[106  44   6]
+ [ 60  32   4]
+ [100 109  19]]
+Accuracy low :
+0.5625
+Accuracy medium :
+0.5479166666666667
+Accuracy high :
+0.54375
+Average accuracy :
+0.5513888888888888
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.68      0.50       156
+           1       0.17      0.33      0.23        96
+           2       0.66      0.08      0.15       228
+
+    accuracy                           0.33       480
+   macro avg       0.41      0.37      0.29       480
+weighted avg       0.48      0.33      0.28       480
+
+Fold9 - Test loss: 16.454
+Fold9 - Test accuracy: 32.71%
+
+EPOCH 5
+Time 48.09 min
+Fold0 - Train loss: 147.28722727298737
+Accuracy :
+0.36666666666666664
+Confusion matrix :
+[[ 33  55  67]
+ [ 22  37  38]
+ [ 28  94 106]]
+Accuracy low :
+0.6416666666666667
+Accuracy medium :
+0.5645833333333333
+Accuracy high :
+0.5270833333333333
+Average accuracy :
+0.5777777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.21      0.28       155
+           1       0.20      0.38      0.26        97
+           2       0.50      0.46      0.48       228
+
+    accuracy                           0.37       480
+   macro avg       0.37      0.35      0.34       480
+weighted avg       0.41      0.37      0.37       480
+
+Fold0 - Test loss: 16.456
+Fold0 - Test accuracy: 36.67%
+
+Time 48.93 min
+Fold1 - Train loss: 294.57836186885834
+Accuracy :
+0.3875
+Confusion matrix :
+[[ 43  56  56]
+ [ 23  35  39]
+ [ 28  92 108]]
+Accuracy low :
+0.6604166666666667
+Accuracy medium :
+0.5625
+Accuracy high :
+0.5520833333333334
+Average accuracy :
+0.5916666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.28      0.35       155
+           1       0.19      0.36      0.25        97
+           2       0.53      0.47      0.50       228
+
+    accuracy                           0.39       480
+   macro avg       0.39      0.37      0.37       480
+weighted avg       0.44      0.39      0.40       480
+
+Fold1 - Test loss: 16.428
+Fold1 - Test accuracy: 38.75%
+
+Time 49.71 min
+Fold2 - Train loss: 441.82575809955597
+Accuracy :
+0.35625
+Confusion matrix :
+[[ 45  87  23]
+ [ 17  54  26]
+ [ 45 111  72]]
+Accuracy low :
+0.6416666666666667
+Accuracy medium :
+0.4979166666666667
+Accuracy high :
+0.5729166666666666
+Average accuracy :
+0.5708333333333333
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.29      0.34       155
+           1       0.21      0.56      0.31        97
+           2       0.60      0.32      0.41       228
+
+    accuracy                           0.36       480
+   macro avg       0.41      0.39      0.36       480
+weighted avg       0.46      0.36      0.37       480
+
+Fold2 - Test loss: 16.468
+Fold2 - Test accuracy: 35.62%
+
+Time 50.44 min
+Fold3 - Train loss: 589.292711853981
+Accuracy :
+0.36041666666666666
+Confusion matrix :
+[[ 65  81   9]
+ [ 22  63  11]
+ [ 35 149  45]]
+Accuracy low :
+0.69375
+Accuracy medium :
+0.45208333333333334
+Accuracy high :
+0.575
+Average accuracy :
+0.5736111111111111
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.53      0.42      0.47       155
+           1       0.22      0.66      0.32        96
+           2       0.69      0.20      0.31       229
+
+    accuracy                           0.36       480
+   macro avg       0.48      0.42      0.37       480
+weighted avg       0.55      0.36      0.36       480
+
+Fold3 - Test loss: 16.426
+Fold3 - Test accuracy: 36.04%
+
+Time 51.22 min
+Fold4 - Train loss: 736.7145924568176
+Accuracy :
+0.38125
+Confusion matrix :
+[[125  30   0]
+ [ 57  39   0]
+ [ 84 126  19]]
+Accuracy low :
+0.64375
+Accuracy medium :
+0.55625
+Accuracy high :
+0.5625
+Average accuracy :
+0.5875
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.81      0.59       155
+           1       0.20      0.41      0.27        96
+           2       1.00      0.08      0.15       229
+
+    accuracy                           0.38       480
+   macro avg       0.56      0.43      0.34       480
+weighted avg       0.67      0.38      0.32       480
+
+Fold4 - Test loss: 16.462
+Fold4 - Test accuracy: 38.12%
+
+Time 51.94 min
+Fold5 - Train loss: 883.9618768692017
+Accuracy :
+0.30625
+Confusion matrix :
+[[120  35   0]
+ [ 66  27   3]
+ [167  62   0]]
+Accuracy low :
+0.44166666666666665
+Accuracy medium :
+0.6541666666666667
+Accuracy high :
+0.5166666666666667
+Average accuracy :
+0.5375
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.22      0.28      0.25        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.31       480
+   macro avg       0.19      0.35      0.24       480
+weighted avg       0.15      0.31      0.20       480
+
+Fold5 - Test loss: 16.473
+Fold5 - Test accuracy: 30.63%
+
+Time 52.67 min
+Fold6 - Train loss: 1031.2873384952545
+Accuracy :
+0.3770833333333333
+Confusion matrix :
+[[116  34   6]
+ [ 52  33  11]
+ [111  85  32]]
+Accuracy low :
+0.5770833333333333
+Accuracy medium :
+0.6208333333333333
+Accuracy high :
+0.55625
+Average accuracy :
+0.5847222222222221
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.74      0.53       156
+           1       0.22      0.34      0.27        96
+           2       0.65      0.14      0.23       228
+
+    accuracy                           0.38       480
+   macro avg       0.43      0.41      0.34       480
+weighted avg       0.49      0.38      0.34       480
+
+Fold6 - Test loss: 16.433
+Fold6 - Test accuracy: 37.71%
+
+Time 53.37 min
+Fold7 - Train loss: 1178.5084006786346
+Accuracy :
+0.325
+Confusion matrix :
+[[ 93  50  13]
+ [ 57  30   9]
+ [116  79  33]]
+Accuracy low :
+0.5083333333333333
+Accuracy medium :
+0.59375
+Accuracy high :
+0.5479166666666667
+Average accuracy :
+0.5499999999999999
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.60      0.44       156
+           1       0.19      0.31      0.24        96
+           2       0.60      0.14      0.23       228
+
+    accuracy                           0.33       480
+   macro avg       0.38      0.35      0.30       480
+weighted avg       0.44      0.33      0.30       480
+
+Fold7 - Test loss: 16.429
+Fold7 - Test accuracy: 32.50%
+
+Time 54.06 min
+Fold8 - Train loss: 1325.889232635498
+Accuracy :
+0.40208333333333335
+Confusion matrix :
+[[ 70  63  23]
+ [ 26  53  17]
+ [ 53 105  70]]
+Accuracy low :
+0.65625
+Accuracy medium :
+0.5604166666666667
+Accuracy high :
+0.5875
+Average accuracy :
+0.6013888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.45      0.46       156
+           1       0.24      0.55      0.33        96
+           2       0.64      0.31      0.41       228
+
+    accuracy                           0.40       480
+   macro avg       0.45      0.44      0.40       480
+weighted avg       0.50      0.40      0.41       480
+
+Fold8 - Test loss: 16.385
+Fold8 - Test accuracy: 40.21%
+
+Time 54.77 min
+Fold9 - Train loss: 1473.1682294607162
+Accuracy :
+0.32708333333333334
+Confusion matrix :
+[[104  46   6]
+ [ 58  33   5]
+ [ 92 116  20]]
+Accuracy low :
+0.5791666666666667
+Accuracy medium :
+0.53125
+Accuracy high :
+0.54375
+Average accuracy :
+0.5513888888888888
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.67      0.51       156
+           1       0.17      0.34      0.23        96
+           2       0.65      0.09      0.15       228
+
+    accuracy                           0.33       480
+   macro avg       0.41      0.37      0.30       480
+weighted avg       0.47      0.33      0.28       480
+
+Fold9 - Test loss: 16.457
+Fold9 - Test accuracy: 32.71%
+
+EPOCH 6
+Time 55.46 min
+Fold0 - Train loss: 147.29261910915375
+Accuracy :
+0.3458333333333333
+Confusion matrix :
+[[ 33  53  69]
+ [ 20  36  41]
+ [ 26 105  97]]
+Accuracy low :
+0.65
+Accuracy medium :
+0.54375
+Accuracy high :
+0.4979166666666667
+Average accuracy :
+0.563888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.21      0.28       155
+           1       0.19      0.37      0.25        97
+           2       0.47      0.43      0.45       228
+
+    accuracy                           0.35       480
+   macro avg       0.36      0.34      0.33       480
+weighted avg       0.39      0.35      0.35       480
+
+Fold0 - Test loss: 16.490
+Fold0 - Test accuracy: 34.58%
+
+Time 56.16 min
+Fold1 - Train loss: 294.66591703891754
+Accuracy :
+0.39791666666666664
+Confusion matrix :
+[[ 42  56  57]
+ [ 22  37  38]
+ [ 27  89 112]]
+Accuracy low :
+0.6625
+Accuracy medium :
+0.5729166666666666
+Accuracy high :
+0.5604166666666667
+Average accuracy :
+0.5986111111111111
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.27      0.34       155
+           1       0.20      0.38      0.27        97
+           2       0.54      0.49      0.51       228
+
+    accuracy                           0.40       480
+   macro avg       0.40      0.38      0.37       480
+weighted avg       0.45      0.40      0.41       480
+
+Fold1 - Test loss: 16.409
+Fold1 - Test accuracy: 39.79%
+
+Time 56.91 min
+Fold2 - Train loss: 442.0703318119049
+Accuracy :
+0.32916666666666666
+Confusion matrix :
+[[ 45  98  12]
+ [ 17  65  15]
+ [ 46 134  48]]
+Accuracy low :
+0.6395833333333333
+Accuracy medium :
+0.45
+Accuracy high :
+0.56875
+Average accuracy :
+0.5527777777777777
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.29      0.34       155
+           1       0.22      0.67      0.33        97
+           2       0.64      0.21      0.32       228
+
+    accuracy                           0.33       480
+   macro avg       0.43      0.39      0.33       480
+weighted avg       0.48      0.33      0.33       480
+
+Fold2 - Test loss: 16.403
+Fold2 - Test accuracy: 32.92%
+
+Time 57.63 min
+Fold3 - Train loss: 589.3679547309875
+Accuracy :
+0.36666666666666664
+Confusion matrix :
+[[ 64  79  12]
+ [ 20  67   9]
+ [ 33 151  45]]
+Accuracy low :
+0.7
+Accuracy medium :
+0.46041666666666664
+Accuracy high :
+0.5729166666666666
+Average accuracy :
+0.5777777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.55      0.41      0.47       155
+           1       0.23      0.70      0.34        96
+           2       0.68      0.20      0.31       229
+
+    accuracy                           0.37       480
+   macro avg       0.48      0.44      0.37       480
+weighted avg       0.55      0.37      0.37       480
+
+Fold3 - Test loss: 16.425
+Fold3 - Test accuracy: 36.67%
+
+Time 58.34 min
+Fold4 - Train loss: 736.7239743471146
+Accuracy :
+0.4
+Confusion matrix :
+[[125  30   0]
+ [ 57  38   1]
+ [ 83 117  29]]
+Accuracy low :
+0.6458333333333334
+Accuracy medium :
+0.5729166666666666
+Accuracy high :
+0.58125
+Average accuracy :
+0.6
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.81      0.60       155
+           1       0.21      0.40      0.27        96
+           2       0.97      0.13      0.22       229
+
+    accuracy                           0.40       480
+   macro avg       0.55      0.44      0.36       480
+weighted avg       0.65      0.40      0.35       480
+
+Fold4 - Test loss: 16.457
+Fold4 - Test accuracy: 40.00%
+
+Time 59.04 min
+Fold5 - Train loss: 884.0294325351715
+Accuracy :
+0.3104166666666667
+Confusion matrix :
+[[120  35   0]
+ [ 66  29   1]
+ [166  63   0]]
+Accuracy low :
+0.44375
+Accuracy medium :
+0.65625
+Accuracy high :
+0.5208333333333334
+Average accuracy :
+0.5402777777777779
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.23      0.30      0.26        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.31       480
+   macro avg       0.19      0.36      0.24       480
+weighted avg       0.16      0.31      0.20       480
+
+Fold5 - Test loss: 16.473
+Fold5 - Test accuracy: 31.04%
+
+Time 59.75 min
+Fold6 - Train loss: 1031.4688534736633
+Accuracy :
+0.36875
+Confusion matrix :
+[[113  39   4]
+ [ 51  36   9]
+ [104  96  28]]
+Accuracy low :
+0.5875
+Accuracy medium :
+0.59375
+Accuracy high :
+0.55625
+Average accuracy :
+0.5791666666666666
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.72      0.53       156
+           1       0.21      0.38      0.27        96
+           2       0.68      0.12      0.21       228
+
+    accuracy                           0.37       480
+   macro avg       0.44      0.41      0.34       480
+weighted avg       0.50      0.37      0.33       480
+
+Fold6 - Test loss: 16.432
+Fold6 - Test accuracy: 36.88%
+
+Time 60.49 min
+Fold7 - Train loss: 1178.694743514061
+Accuracy :
+0.33958333333333335
+Confusion matrix :
+[[ 91  46  19]
+ [ 56  29  11]
+ [110  75  43]]
+Accuracy low :
+0.51875
+Accuracy medium :
+0.6083333333333333
+Accuracy high :
+0.5520833333333334
+Average accuracy :
+0.5597222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.58      0.44       156
+           1       0.19      0.30      0.24        96
+           2       0.59      0.19      0.29       228
+
+    accuracy                           0.34       480
+   macro avg       0.38      0.36      0.32       480
+weighted avg       0.43      0.34      0.33       480
+
+Fold7 - Test loss: 16.434
+Fold7 - Test accuracy: 33.96%
+
+Time 61.18 min
+Fold8 - Train loss: 1326.045716881752
+Accuracy :
+0.42291666666666666
+Confusion matrix :
+[[69 54 33]
+ [25 50 21]
+ [53 91 84]]
+Accuracy low :
+0.65625
+Accuracy medium :
+0.6020833333333333
+Accuracy high :
+0.5875
+Average accuracy :
+0.6152777777777777
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.44      0.46       156
+           1       0.26      0.52      0.34        96
+           2       0.61      0.37      0.46       228
+
+    accuracy                           0.42       480
+   macro avg       0.44      0.44      0.42       480
+weighted avg       0.49      0.42      0.43       480
+
+Fold8 - Test loss: 16.373
+Fold8 - Test accuracy: 42.29%
+
+Time 61.89 min
+Fold9 - Train loss: 1473.4581456184387
+Accuracy :
+0.3458333333333333
+Confusion matrix :
+[[103  48   5]
+ [ 58  32   6]
+ [ 91 106  31]]
+Accuracy low :
+0.5791666666666667
+Accuracy medium :
+0.5458333333333333
+Accuracy high :
+0.5666666666666667
+Average accuracy :
+0.5638888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.66      0.50       156
+           1       0.17      0.33      0.23        96
+           2       0.74      0.14      0.23       228
+
+    accuracy                           0.35       480
+   macro avg       0.44      0.38      0.32       480
+weighted avg       0.52      0.35      0.32       480
+
+Fold9 - Test loss: 16.426
+Fold9 - Test accuracy: 34.58%
+
+EPOCH 7
+Time 62.58 min
+Fold0 - Train loss: 147.30217802524567
+Accuracy :
+0.29375
+Confusion matrix :
+[[ 32  64  59]
+ [ 20  44  33]
+ [ 25 138  65]]
+Accuracy low :
+0.65
+Accuracy medium :
+0.46875
+Accuracy high :
+0.46875
+Average accuracy :
+0.5291666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.21      0.28       155
+           1       0.18      0.45      0.26        97
+           2       0.41      0.29      0.34       228
+
+    accuracy                           0.29       480
+   macro avg       0.34      0.32      0.29       480
+weighted avg       0.37      0.29      0.30       480
+
+Fold0 - Test loss: 16.502
+Fold0 - Test accuracy: 29.38%
+
+Time 63.27 min
+Fold1 - Train loss: 294.5970768928528
+Accuracy :
+0.3645833333333333
+Confusion matrix :
+[[ 41  74  40]
+ [ 21  44  32]
+ [ 27 111  90]]
+Accuracy low :
+0.6625
+Accuracy medium :
+0.5041666666666667
+Accuracy high :
+0.5625
+Average accuracy :
+0.5763888888888888
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.46      0.26      0.34       155
+           1       0.19      0.45      0.27        97
+           2       0.56      0.39      0.46       228
+
+    accuracy                           0.36       480
+   macro avg       0.40      0.37      0.36       480
+weighted avg       0.45      0.36      0.38       480
+
+Fold1 - Test loss: 16.370
+Fold1 - Test accuracy: 36.46%
+
+Time 63.98 min
+Fold2 - Train loss: 441.8288766145706
+Accuracy :
+0.32708333333333334
+Confusion matrix :
+[[ 44  95  16]
+ [ 15  65  17]
+ [ 44 136  48]]
+Accuracy low :
+0.6458333333333334
+Accuracy medium :
+0.45208333333333334
+Accuracy high :
+0.55625
+Average accuracy :
+0.5513888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.28      0.34       155
+           1       0.22      0.67      0.33        97
+           2       0.59      0.21      0.31       228
+
+    accuracy                           0.33       480
+   macro avg       0.41      0.39      0.33       480
+weighted avg       0.46      0.33      0.32       480
+
+Fold2 - Test loss: 16.399
+Fold2 - Test accuracy: 32.71%
+
+Time 64.68 min
+Fold3 - Train loss: 589.3005814552307
+Accuracy :
+0.36666666666666664
+Confusion matrix :
+[[ 62  84   9]
+ [ 19  67  10]
+ [ 32 150  47]]
+Accuracy low :
+0.7
+Accuracy medium :
+0.45208333333333334
+Accuracy high :
+0.58125
+Average accuracy :
+0.5777777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.55      0.40      0.46       155
+           1       0.22      0.70      0.34        96
+           2       0.71      0.21      0.32       229
+
+    accuracy                           0.37       480
+   macro avg       0.49      0.43      0.37       480
+weighted avg       0.56      0.37      0.37       480
+
+Fold3 - Test loss: 16.426
+Fold3 - Test accuracy: 36.67%
+
+Time 65.38 min
+Fold4 - Train loss: 736.8555809259415
+Accuracy :
+0.41041666666666665
+Confusion matrix :
+[[125  30   0]
+ [ 54  41   1]
+ [ 81 117  31]]
+Accuracy low :
+0.65625
+Accuracy medium :
+0.5791666666666667
+Accuracy high :
+0.5854166666666667
+Average accuracy :
+0.6069444444444444
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.48      0.81      0.60       155
+           1       0.22      0.43      0.29        96
+           2       0.97      0.14      0.24       229
+
+    accuracy                           0.41       480
+   macro avg       0.56      0.46      0.38       480
+weighted avg       0.66      0.41      0.37       480
+
+Fold4 - Test loss: 16.440
+Fold4 - Test accuracy: 41.04%
+
+Time 66.08 min
+Fold5 - Train loss: 884.4178291559219
+Accuracy :
+0.31666666666666665
+Confusion matrix :
+[[120  35   0]
+ [ 62  31   3]
+ [163  65   1]]
+Accuracy low :
+0.4583333333333333
+Accuracy medium :
+0.65625
+Accuracy high :
+0.51875
+Average accuracy :
+0.5444444444444444
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.77      0.48       155
+           1       0.24      0.32      0.27        96
+           2       0.25      0.00      0.01       229
+
+    accuracy                           0.32       480
+   macro avg       0.28      0.37      0.25       480
+weighted avg       0.28      0.32      0.21       480
+
+Fold5 - Test loss: 16.489
+Fold5 - Test accuracy: 31.67%
+
+Time 66.76 min
+Fold6 - Train loss: 1032.406888127327
+Accuracy :
+0.38333333333333336
+Confusion matrix :
+[[108  40   8]
+ [ 43  35  18]
+ [ 80 107  41]]
+Accuracy low :
+0.64375
+Accuracy medium :
+0.5666666666666667
+Accuracy high :
+0.55625
+Average accuracy :
+0.5888888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.69      0.56       156
+           1       0.19      0.36      0.25        96
+           2       0.61      0.18      0.28       228
+
+    accuracy                           0.38       480
+   macro avg       0.42      0.41      0.36       480
+weighted avg       0.48      0.38      0.36       480
+
+Fold6 - Test loss: 16.417
+Fold6 - Test accuracy: 38.33%
+
+Time 67.47 min
+Fold7 - Train loss: 1180.0477353334427
+Accuracy :
+0.32916666666666666
+Confusion matrix :
+[[82 53 21]
+ [49 27 20]
+ [91 88 49]]
+Accuracy low :
+0.5541666666666667
+Accuracy medium :
+0.5625
+Accuracy high :
+0.5416666666666666
+Average accuracy :
+0.5527777777777777
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.37      0.53      0.43       156
+           1       0.16      0.28      0.20        96
+           2       0.54      0.21      0.31       228
+
+    accuracy                           0.33       480
+   macro avg       0.36      0.34      0.32       480
+weighted avg       0.41      0.33      0.33       480
+
+Fold7 - Test loss: 16.431
+Fold7 - Test accuracy: 32.92%
+
+Time 68.17 min
+Fold8 - Train loss: 1327.611085176468
+Accuracy :
+0.43125
+Confusion matrix :
+[[65 49 42]
+ [18 47 31]
+ [45 88 95]]
+Accuracy low :
+0.6791666666666667
+Accuracy medium :
+0.6125
+Accuracy high :
+0.5708333333333333
+Average accuracy :
+0.6208333333333333
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.51      0.42      0.46       156
+           1       0.26      0.49      0.34        96
+           2       0.57      0.42      0.48       228
+
+    accuracy                           0.43       480
+   macro avg       0.44      0.44      0.42       480
+weighted avg       0.48      0.43      0.44       480
+
+Fold8 - Test loss: 16.402
+Fold8 - Test accuracy: 43.12%
+
+Time 68.87 min
+Fold9 - Train loss: 1475.2107138633728
+Accuracy :
+0.3541666666666667
+Confusion matrix :
+[[ 95  46  15]
+ [ 52  35   9]
+ [ 79 109  40]]
+Accuracy low :
+0.6
+Accuracy medium :
+0.55
+Accuracy high :
+0.5583333333333333
+Average accuracy :
+0.5694444444444444
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.61      0.50       156
+           1       0.18      0.36      0.24        96
+           2       0.62      0.18      0.27       228
+
+    accuracy                           0.35       480
+   macro avg       0.41      0.38      0.34       480
+weighted avg       0.47      0.35      0.34       480
+
+Fold9 - Test loss: 16.425
+Fold9 - Test accuracy: 35.42%
+
+EPOCH 8
+Time 69.55 min
+Fold0 - Train loss: 147.24877762794495
+Accuracy :
+0.275
+Confusion matrix :
+[[ 28  92  35]
+ [ 15  58  24]
+ [ 22 160  46]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.39375
+Accuracy high :
+0.4979166666666667
+Average accuracy :
+0.5166666666666666
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.18      0.25       155
+           1       0.19      0.60      0.29        97
+           2       0.44      0.20      0.28       228
+
+    accuracy                           0.28       480
+   macro avg       0.35      0.33      0.27       480
+weighted avg       0.39      0.28      0.27       480
+
+Fold0 - Test loss: 16.522
+Fold0 - Test accuracy: 27.50%
+
+Time 70.24 min
+Fold1 - Train loss: 294.6238007545471
+Accuracy :
+0.275
+Confusion matrix :
+[[ 30 119   6]
+ [ 16  75   6]
+ [ 23 178  27]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.33541666666666664
+Accuracy high :
+0.55625
+Average accuracy :
+0.5166666666666666
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.19      0.27       155
+           1       0.20      0.77      0.32        97
+           2       0.69      0.12      0.20       228
+
+    accuracy                           0.28       480
+   macro avg       0.44      0.36      0.26       480
+weighted avg       0.51      0.28      0.25       480
+
+Fold1 - Test loss: 16.385
+Fold1 - Test accuracy: 27.50%
+
+Time 70.95 min
+Fold2 - Train loss: 441.9137090444565
+Accuracy :
+0.31875
+Confusion matrix :
+[[ 35 104  16]
+ [ 12  70  15]
+ [ 35 145  48]]
+Accuracy low :
+0.6520833333333333
+Accuracy medium :
+0.425
+Accuracy high :
+0.5604166666666667
+Average accuracy :
+0.5458333333333334
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.23      0.30       155
+           1       0.22      0.72      0.34        97
+           2       0.61      0.21      0.31       228
+
+    accuracy                           0.32       480
+   macro avg       0.42      0.39      0.31       480
+weighted avg       0.47      0.32      0.31       480
+
+Fold2 - Test loss: 16.397
+Fold2 - Test accuracy: 31.87%
+
+Time 71.66 min
+Fold3 - Train loss: 589.2697532176971
+Accuracy :
+0.33958333333333335
+Confusion matrix :
+[[ 53  90  12]
+ [ 14  77   5]
+ [ 21 175  33]]
+Accuracy low :
+0.7145833333333333
+Accuracy medium :
+0.4083333333333333
+Accuracy high :
+0.55625
+Average accuracy :
+0.5597222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.60      0.34      0.44       155
+           1       0.23      0.80      0.35        96
+           2       0.66      0.14      0.24       229
+
+    accuracy                           0.34       480
+   macro avg       0.50      0.43      0.34       480
+weighted avg       0.55      0.34      0.32       480
+
+Fold3 - Test loss: 16.426
+Fold3 - Test accuracy: 33.96%
+
+Time 72.37 min
+Fold4 - Train loss: 736.6726903915405
+Accuracy :
+0.39791666666666664
+Confusion matrix :
+[[125  30   0]
+ [ 54  42   0]
+ [ 81 124  24]]
+Accuracy low :
+0.65625
+Accuracy medium :
+0.5666666666666667
+Accuracy high :
+0.5729166666666666
+Average accuracy :
+0.5986111111111111
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.48      0.81      0.60       155
+           1       0.21      0.44      0.29        96
+           2       1.00      0.10      0.19       229
+
+    accuracy                           0.40       480
+   macro avg       0.57      0.45      0.36       480
+weighted avg       0.68      0.40      0.34       480
+
+Fold4 - Test loss: 16.456
+Fold4 - Test accuracy: 39.79%
+
+Time 73.10 min
+Fold5 - Train loss: 883.9856238365173
+Accuracy :
+0.31875
+Confusion matrix :
+[[120  35   0]
+ [ 62  33   1]
+ [163  66   0]]
+Accuracy low :
+0.4583333333333333
+Accuracy medium :
+0.6583333333333333
+Accuracy high :
+0.5208333333333334
+Average accuracy :
+0.5458333333333334
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.77      0.48       155
+           1       0.25      0.34      0.29        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.32       480
+   macro avg       0.20      0.37      0.26       480
+weighted avg       0.16      0.32      0.21       480
+
+Fold5 - Test loss: 16.476
+Fold5 - Test accuracy: 31.87%
+
+Time 73.79 min
+Fold6 - Train loss: 1031.3294897079468
+Accuracy :
+0.3645833333333333
+Confusion matrix :
+[[109  44   3]
+ [ 46  43   7]
+ [ 86 119  23]]
+Accuracy low :
+0.6270833333333333
+Accuracy medium :
+0.55
+Accuracy high :
+0.5520833333333334
+Average accuracy :
+0.576388888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.45      0.70      0.55       156
+           1       0.21      0.45      0.28        96
+           2       0.70      0.10      0.18       228
+
+    accuracy                           0.36       480
+   macro avg       0.45      0.42      0.34       480
+weighted avg       0.52      0.36      0.32       480
+
+Fold6 - Test loss: 16.431
+Fold6 - Test accuracy: 36.46%
+
+Time 74.52 min
+Fold7 - Train loss: 1178.4847465753555
+Accuracy :
+0.325
+Confusion matrix :
+[[82 57 17]
+ [51 28 17]
+ [97 85 46]]
+Accuracy low :
+0.5375
+Accuracy medium :
+0.5625
+Accuracy high :
+0.55
+Average accuracy :
+0.55
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.36      0.53      0.42       156
+           1       0.16      0.29      0.21        96
+           2       0.57      0.20      0.30       228
+
+    accuracy                           0.33       480
+   macro avg       0.37      0.34      0.31       480
+weighted avg       0.42      0.33      0.32       480
+
+Fold7 - Test loss: 16.447
+Fold7 - Test accuracy: 32.50%
+
+Time 75.21 min
+Fold8 - Train loss: 1325.7335423231125
+Accuracy :
+0.36875
+Confusion matrix :
+[[ 67  67  22]
+ [ 24  56  16]
+ [ 51 123  54]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.5208333333333334
+Accuracy high :
+0.5583333333333333
+Average accuracy :
+0.5791666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.43      0.45       156
+           1       0.23      0.58      0.33        96
+           2       0.59      0.24      0.34       228
+
+    accuracy                           0.37       480
+   macro avg       0.43      0.42      0.37       480
+weighted avg       0.48      0.37      0.37       480
+
+Fold8 - Test loss: 16.394
+Fold8 - Test accuracy: 36.88%
+
+Time 75.92 min
+Fold9 - Train loss: 1472.989760875702
+Accuracy :
+0.3375
+Confusion matrix :
+[[103  48   5]
+ [ 57  35   4]
+ [ 90 114  24]]
+Accuracy low :
+0.5833333333333334
+Accuracy medium :
+0.5354166666666667
+Accuracy high :
+0.55625
+Average accuracy :
+0.5583333333333332
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.66      0.51       156
+           1       0.18      0.36      0.24        96
+           2       0.73      0.11      0.18       228
+
+    accuracy                           0.34       480
+   macro avg       0.44      0.38      0.31       480
+weighted avg       0.51      0.34      0.30       480
+
+Fold9 - Test loss: 16.450
+Fold9 - Test accuracy: 33.75%
+
+EPOCH 9
+Time 76.65 min
+Fold0 - Train loss: 147.18011510372162
+Accuracy :
+0.2791666666666667
+Confusion matrix :
+[[ 29  98  28]
+ [ 16  63  18]
+ [ 22 164  42]]
+Accuracy low :
+0.6583333333333333
+Accuracy medium :
+0.38333333333333336
+Accuracy high :
+0.5166666666666667
+Average accuracy :
+0.5194444444444445
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.43      0.19      0.26       155
+           1       0.19      0.65      0.30        97
+           2       0.48      0.18      0.27       228
+
+    accuracy                           0.28       480
+   macro avg       0.37      0.34      0.28       480
+weighted avg       0.41      0.28      0.27       480
+
+Fold0 - Test loss: 16.477
+Fold0 - Test accuracy: 27.92%
+
+Time 77.34 min
+Fold1 - Train loss: 294.6084156036377
+Accuracy :
+0.3020833333333333
+Confusion matrix :
+[[ 35  96  24]
+ [ 20  49  28]
+ [ 25 142  61]]
+Accuracy low :
+0.65625
+Accuracy medium :
+0.4041666666666667
+Accuracy high :
+0.54375
+Average accuracy :
+0.5347222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.44      0.23      0.30       155
+           1       0.17      0.51      0.26        97
+           2       0.54      0.27      0.36       228
+
+    accuracy                           0.30       480
+   macro avg       0.38      0.33      0.30       480
+weighted avg       0.43      0.30      0.32       480
+
+Fold1 - Test loss: 16.444
+Fold1 - Test accuracy: 30.21%
+
+Time 78.05 min
+Fold2 - Train loss: 442.063246011734
+Accuracy :
+0.32916666666666666
+Confusion matrix :
+[[ 39  95  21]
+ [ 15  60  22]
+ [ 43 126  59]]
+Accuracy low :
+0.6375
+Accuracy medium :
+0.4625
+Accuracy high :
+0.5583333333333333
+Average accuracy :
+0.5527777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.40      0.25      0.31       155
+           1       0.21      0.62      0.32        97
+           2       0.58      0.26      0.36       228
+
+    accuracy                           0.33       480
+   macro avg       0.40      0.38      0.33       480
+weighted avg       0.45      0.33      0.33       480
+
+Fold2 - Test loss: 16.377
+Fold2 - Test accuracy: 32.92%
+
+Time 78.77 min
+Fold3 - Train loss: 589.4524244070053
+Accuracy :
+0.3854166666666667
+Confusion matrix :
+[[ 60  79  16]
+ [ 19  61  16]
+ [ 32 133  64]]
+Accuracy low :
+0.6958333333333333
+Accuracy medium :
+0.48541666666666666
+Accuracy high :
+0.5895833333333333
+Average accuracy :
+0.5902777777777778
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.54      0.39      0.45       155
+           1       0.22      0.64      0.33        96
+           2       0.67      0.28      0.39       229
+
+    accuracy                           0.39       480
+   macro avg       0.48      0.43      0.39       480
+weighted avg       0.54      0.39      0.40       480
+
+Fold3 - Test loss: 16.415
+Fold3 - Test accuracy: 38.54%
+
+Time 79.49 min
+Fold4 - Train loss: 736.7526193857193
+Accuracy :
+0.3958333333333333
+Confusion matrix :
+[[125  30   0]
+ [ 56  40   0]
+ [ 82 122  25]]
+Accuracy low :
+0.65
+Accuracy medium :
+0.5666666666666667
+Accuracy high :
+0.575
+Average accuracy :
+0.5972222222222222
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.48      0.81      0.60       155
+           1       0.21      0.42      0.28        96
+           2       1.00      0.11      0.20       229
+
+    accuracy                           0.40       480
+   macro avg       0.56      0.44      0.36       480
+weighted avg       0.67      0.40      0.34       480
+
+Fold4 - Test loss: 16.454
+Fold4 - Test accuracy: 39.58%
+
+Time 80.19 min
+Fold5 - Train loss: 883.9977579116821
+Accuracy :
+0.3104166666666667
+Confusion matrix :
+[[120  35   0]
+ [ 66  29   1]
+ [166  63   0]]
+Accuracy low :
+0.44375
+Accuracy medium :
+0.65625
+Accuracy high :
+0.5208333333333334
+Average accuracy :
+0.5402777777777779
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.34      0.77      0.47       155
+           1       0.23      0.30      0.26        96
+           2       0.00      0.00      0.00       229
+
+    accuracy                           0.31       480
+   macro avg       0.19      0.36      0.24       480
+weighted avg       0.16      0.31      0.20       480
+
+Fold5 - Test loss: 16.475
+Fold5 - Test accuracy: 31.04%
+
+Time 80.88 min
+Fold6 - Train loss: 1031.3584952354431
+Accuracy :
+0.3645833333333333
+Confusion matrix :
+[[110  42   4]
+ [ 51  38   7]
+ [101 100  27]]
+Accuracy low :
+0.5875
+Accuracy medium :
+0.5833333333333334
+Accuracy high :
+0.5583333333333333
+Average accuracy :
+0.576388888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.42      0.71      0.53       156
+           1       0.21      0.40      0.28        96
+           2       0.71      0.12      0.20       228
+
+    accuracy                           0.36       480
+   macro avg       0.45      0.41      0.33       480
+weighted avg       0.52      0.36      0.32       480
+
+Fold6 - Test loss: 16.429
+Fold6 - Test accuracy: 36.46%
+
+Time 81.58 min
+Fold7 - Train loss: 1178.5321897268295
+Accuracy :
+0.33125
+Confusion matrix :
+[[ 88  48  20]
+ [ 55  30  11]
+ [107  80  41]]
+Accuracy low :
+0.5208333333333334
+Accuracy medium :
+0.5958333333333333
+Accuracy high :
+0.5458333333333333
+Average accuracy :
+0.5541666666666667
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.35      0.56      0.43       156
+           1       0.19      0.31      0.24        96
+           2       0.57      0.18      0.27       228
+
+    accuracy                           0.33       480
+   macro avg       0.37      0.35      0.31       480
+weighted avg       0.42      0.33      0.32       480
+
+Fold7 - Test loss: 16.431
+Fold7 - Test accuracy: 33.12%
+
+Time 82.31 min
+Fold8 - Train loss: 1325.8750871419907
+Accuracy :
+0.37083333333333335
+Confusion matrix :
+[[ 68  56  32]
+ [ 25  53  18]
+ [ 52 119  57]]
+Accuracy low :
+0.65625
+Accuracy medium :
+0.5458333333333333
+Accuracy high :
+0.5395833333333333
+Average accuracy :
+0.5805555555555556
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.47      0.44      0.45       156
+           1       0.23      0.55      0.33        96
+           2       0.53      0.25      0.34       228
+
+    accuracy                           0.37       480
+   macro avg       0.41      0.41      0.37       480
+weighted avg       0.45      0.37      0.37       480
+
+Fold8 - Test loss: 16.387
+Fold8 - Test accuracy: 37.08%
+
+Time 83.05 min
+Fold9 - Train loss: 1473.303008556366
+Accuracy :
+0.32708333333333334
+Confusion matrix :
+[[103  46   7]
+ [ 57  33   6]
+ [ 90 117  21]]
+Accuracy low :
+0.5833333333333334
+Accuracy medium :
+0.5291666666666667
+Accuracy high :
+0.5416666666666666
+Average accuracy :
+0.5513888888888889
+Classification report :
+              precision    recall  f1-score   support
+
+           0       0.41      0.66      0.51       156
+           1       0.17      0.34      0.23        96
+           2       0.62      0.09      0.16       228
+
+    accuracy                           0.33       480
+   macro avg       0.40      0.37      0.30       480
+weighted avg       0.46      0.33      0.29       480
+
+Fold9 - Test loss: 16.448
+Fold9 - Test accuracy: 32.71%
+
+==================== BEST TEST ACCURACY =================================
+0.45
